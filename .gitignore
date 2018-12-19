@@ -34,3 +34,14 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+# 位置情報のオリジナルcsvファイルが入っているディレクトリ
+geocsv/
+
+#不動産価格取引情報のオリジナルcsvファイルが入っているディレクトリ
+reticsv/
+
+#vim編集用
+*~
+*.swp
+
