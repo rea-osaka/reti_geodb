@@ -36,12 +36,15 @@ vignettes/*.pdf
 rsconnect/
 
 # 位置情報のオリジナルcsvファイルが入っているディレクトリ
-geocsv/
+geocsv/*
 
 #不動産価格取引情報のオリジナルcsvファイルが入っているディレクトリ
-reticsv/
+reticsv/*
 
 #vim編集用
 *~
 *.swp
 
+.Rproj.user
+
+README.html
