@@ -47,4 +47,5 @@ reticsv/*
 
 .Rproj.user
 
+*.rda
 README.html
